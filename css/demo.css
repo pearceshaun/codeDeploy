@@ -1,0 +1,45 @@
+h1 {
+	background-image: url("../img/cloud.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 160px;
+	margin-top: 20px;
+	padding-top: 12px;
+	min-height: 80px;
+	margin-left: -20px;
+}
+
+.position {
+	text-align:center;
+}
+
+td.position {
+	font-size: 2.75rem;
+	line-height: 1.4; 
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	padding-bottom: 30px;
+}
+
+td.position.down {
+	background-image: url('../img/chart_down.png');
+}
+
+td.position.none {
+	background-image: url('../img/chart_no_change.png');
+}
+
+td.position.up {
+	background-image: url('../img/chart_up.png');
+}
+
+span.info {
+	font-size: 0.80rem;
+	display: block;
+	margin-top: 10px;
+	text-transform: uppercase;
+}
+
+.artist, .title {
+	font-size: 1.10rem;
+}
