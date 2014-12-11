@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"trasf",
+				"-webkit-transform:   (property)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-bott",
+				"border-bottom-width:   (property)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"backga",
+				"background-image"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"logger",
+				"logger"
+			],
+			[
+				"tim",
+				"timeout"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"str",
+				"stream_name"
+			],
+			[
+				"log",
+				"log_info"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sppearce/Dropbox/Amazon/GitHub/codeDeply"
+	],
+	"file_history":
+	[
+		"/Users/sppearce/Dropbox/Amazon/GitHub/codeDeply/appspec.yml",
+		"/Users/sppearce/Downloads/SampleApp_Linux-2/appspec.yml",
+		"/Users/sppearce/Desktop/all.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/rTweet/rTweet.sublime-project",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/Dockerfile",
+		"/Users/sppearce/Dropbox/Amazon/HR/Performance Management/2014/Feedback Requests",
+		"/Users/sppearce/Desktop/EBMDBFRIH1UQ.2014-03-04-10.1tvufuw7",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo/snippets.txt",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo/index.php",
+		"/Users/sppearce/Downloads/foundation-5/index.html",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/app/public/css/demo.css",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/app/views/index.erb",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/app/public/css/foundation.css",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/app/app.rb",
+		"/Users/sppearce/Dropbox/Amazon/Projects/docker/sinatra/sinatra.sublime-project",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo/commands.txt",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/old/Demo_old/index.php",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/101-demo/css/101.css",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/101-demo/addressbook.php",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/101-demo/index.php",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo/101app/addressbook.php",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo 2/index.html",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Magento/Test Rig/Magento v6_varnish.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Magento/Test Rig/Magento v5_nfs.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Holiday Extras/kcl copy.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 2/mapr/mapr.css",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 2/twitter-dashboard/css/twitter-dashboard.css",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 2/mapr/mapr.js",
+		"/Users/sppearce/Dropbox/Sites/beta.whitecleaningco.com/sftp-config.json",
+		"/Users/sppearce/Dropbox/Sites/beta.whitecleaningco.com/wp-content/themes/drewsymo-Foundation-2ef5908/footer.php",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 1/single-data-item.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 2/twitter-dashboard/map",
+		"/Users/sppearce/Downloads/twitter-consumer/src/test.java",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/Internal 2/run.txt",
+		"/Users/sppearce/Dropbox/Amazon/Projects/rTweet/rTweet.config",
+		"/Users/sppearce/Dropbox/Amazon/Projects/rTweet/install_steps.sh",
+		"/Users/sppearce/Dropbox/Amazon/Projects/rTweet/rTweet.rb",
+		"/Users/sppearce/Dropbox/Amazon/Projects/Hackathons/FT/tfl-importer/tfl-importer-v2.rb",
+		"/Users/sppearce/Dropbox/Amazon/Projects/rTweet/Gemfile",
+		"/Users/sppearce/myapp/app.js",
+		"/Users/sppearce/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"log_interval",
+			"AWS",
+			"“",
+			"added",
+			"</p",
+			"/p",
+			"from rd",
+			"subnet",
+			"Processing",
+			"^\\s*$\\n",
+			"^\\s*$",
+			"^[INFO\\:s;].*",
+			"^[INFO\\: s;].*",
+			"^[INFO: s;].*",
+			"^[Nov;].*",
+			"Nov * 2014",
+			"Nov*2014",
+			"Nov*\\n",
+			"FrontendInstanceProfile",
+			"map",
+			"la",
+			"long",
+			"alread",
+			"log_info",
+			"uuid",
+			"Varnish"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"submit_interval",
+			"Aws",
+			"\"",
+			"",
+			"@logger.info"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 110.0
+	},
+	"project": "codeDeploy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
